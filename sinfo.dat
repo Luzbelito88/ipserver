@@ -1,0 +1,16 @@
+[INIT]
+Cant=2
+
+[S1]
+Desc=Local
+IP=192.168.0.200
+PJ=7666
+Mundo=Alkon
+
+[S2]
+Desc=Externo
+IP=gmgsoporte.ddns.net
+PJ=7666
+Mundo=Alkon
+
+
